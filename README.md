@@ -13,7 +13,7 @@ Argument is only the animation IDs ("19" for dance id), typing in "dance" won't 
 Commands are not case-sensitive. [slash](https://github.com/baldera-mods/slash) is supported but not required
 
 ### Known issues:
-* Idle animations will often interrupt emotes. See the [Remove Idles](https://github.com/teralove/remove-idles) mod to fix this.
+* Idle animations will often interrupt emotes. <strike>See the [Remove Idles](https://github.com/teralove/remove-idles) mod to fix this.</strike>
 
 ### Info:
 * Client-side only, this means only you can see the emotes. You're not actually forcing others to do emotes.

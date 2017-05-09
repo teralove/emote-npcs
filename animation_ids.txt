@@ -1,0 +1,36 @@
+******************************
+* Character NPC Animaiton IDs            
+******************************
+
+1	idle1
+2	idle2
+3	idle3
+4	talk1
+5	talk2
+6	talk3
+7	victory
+8	clap, applaud
+9	thanks???
+10	thinking
+11	disappointment??? (failing to gather/craft)
+12	angry
+13	cry, sad
+14	hi, hello, wave
+15	taunt
+16	love
+17	charge, attack
+18	point
+19	dance
+20	laugh
+21	forgive
+22	forgive2???
+
+
+******************************
+* Monster NPC Animaiton IDs            
+******************************
+1	Preparing to attack (when you get close)
+2	idle1
+3	idle2
+4	idle3
+5	idle4
